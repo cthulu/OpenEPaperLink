@@ -1,4 +1,4 @@
-# OpenEPaperLink
+# OpenEPaperLink (fork)
 
 This is an alternative firmware and protocol for the multiple Electronic Shelf Labels. It can be used to set up E-Paper tags and supply them with content.
 
